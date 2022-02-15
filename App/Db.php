@@ -8,10 +8,10 @@ class Db extends DbStatic
 {	
 	static $pdo;
 	
-	protected const DB_HOST = "117.52.153.219";
-	const DB_NAME = "ksn_db";
-	protected const DB_USER = "ksn";	
-	protected const DB_PASSWORD = "tlswkd@!(zpdldptmdos";
+	protected const DB_HOST = "";
+	const DB_NAME = "";
+	protected const DB_USER = "";	
+	protected const DB_PASSWORD = "";
 	
     static function db_connect()
 	{
