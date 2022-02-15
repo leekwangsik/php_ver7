@@ -8,10 +8,10 @@ class Db_wiseU extends DbStatic
 {	
 	static $pdo;
 	
-	protected const DB_HOST = "121.254.129.73";
-	const DB_NAME = "wiseU";
-	protected const DB_USER = "wiseu";	
-	protected const DB_PASSWORD = "wiseu";
+	protected const DB_HOST = "";
+	const DB_NAME = "";
+	protected const DB_USER = "";	
+	protected const DB_PASSWORD = "";
 	
     static function db_connect()
 	{
